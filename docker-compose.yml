@@ -1,0 +1,13 @@
+services:
+  hellokafka:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+    networks:
+      - default_network
+
+networks:
+  default_network:
+    driver: bridge

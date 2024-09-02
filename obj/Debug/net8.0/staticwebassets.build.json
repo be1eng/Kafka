@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KpuOiNCrQndDFAjGZ23PvVLErEr401UC3WJ57IsyqT8=",
+  "Source": "HelloKafka",
+  "BasePath": "_content/HelloKafka",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
